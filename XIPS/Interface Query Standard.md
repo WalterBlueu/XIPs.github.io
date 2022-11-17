@@ -16,7 +16,10 @@ requires (*optional): <XIP number(s)>
 Note that an XIP number will be assigned by an editor. When opening a pull request to submit your XIP, please use an abbreviated title in the filename, `xip-draft_title_abbrev.md`.
 
 The title should be 44 characters or less. It should not repeat the XIP number in title, irrespective of the category.--> 
-
+## Simple Summary
+<!--"If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the XIP.-->
+This XIP defines a method to query whether a contract implements a certain interface or not.
+  
 ## Abstract
 This proposal defines:
 1. [How interface identifiers are defined](#how-interface-identifiers-are-defined)
