@@ -11,11 +11,11 @@ created: 2022-11-17
 requires (*optional): <XIP number(s)>
 ---
 
-This is the suggested template for new XIPs.
+<!--This is the suggested template for new XIPs.
 
 Note that an XIP number will be assigned by an editor. When opening a pull request to submit your XIP, please use an abbreviated title in the filename, `xip-draft_title_abbrev.md`.
 
-The title should be 44 characters or less. It should not repeat the XIP number in title, irrespective of the category. 
+The title should be 44 characters or less. It should not repeat the XIP number in title, irrespective of the category.--> 
 
 ## Abstract
 This proposal defines:
