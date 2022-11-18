@@ -3,7 +3,7 @@ xip: <to be assigned>
 title: Interface Query Standard
 description: Creates a standard method to publish and detect what interfaces a smart contract implements
 author: Jon McBee <jon@xdc.community>
-discussions-to: <URL>
+discussions-to: <https://www.xdc.dev/walterblueu/proposal-for-interface-query-standard-xip-4id8>
 status: Draft
 type: Standards
 category: Interface
